@@ -1,3 +1,3 @@
-#JAVA sample project
+# JAVA sample project
 
 ## Hello world
